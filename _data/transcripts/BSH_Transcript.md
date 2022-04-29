@@ -1,6 +1,6 @@
 ---
 object-id: demo_015
-title: Bernadette Suda Horiuchi Interview Audio
+title: Bernadette Suda Horiuchi Interview
 date-interviewed: 2009-05-19
 location: Bellevue, WA
 av_source: youtube
