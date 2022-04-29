@@ -6,28 +6,28 @@
 # URL settings 
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://uidaholib.github.io
+url: https://aweymo.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /oral-history-as-data
+baseurl: /CB_OH.2
 # repository is the github repository's full url
-repository: https://github.com/uidaholib/oral-history-as-data
+repository: https://github.com/aweymo/CB.OH.2
 
 
 ##########
 # Site settings
 #
 # title of site appears in banner
-title: Oral History (as) Data
+title: Mapping Language
 # tagline appears in banner
-tagline: Analyze and publish coded oral history and qualitative interviews
+tagline: Representation of  Immigrant Communities in the Pacific Northwest, 1880-1930
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Lib-Static Oral History / Qualitative Interview Analysis Tool, Analyze and publish transcriptions with tagged csvs"
+description: "Developing  language used to describe immigrant groups in the Pacific Northwest from 1880-1930, reflects labor, industrial and land development interests, which may still impact these communities today.This Capstone will collect, analyze and map historical language in newspapers, periodicals, legacy oral history recordings and archival collections describing immigrant communities in Washington and Oregon. "
 # Organization branding
-organization-name: "Center for Digital Inquiry and Learning, University of Idaho Library"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/images/cdil-blacktransparent-logo.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Andrew Weymouth"
+organization-link: http://a-rains.squarespace.com/
+organization-logo-banner: 
+organization-logo-nav: 
 
 
 ####### Leave the Below As Is ########
